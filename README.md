@@ -13,7 +13,11 @@ The dataset used for training the model is available on Kaggle: [Face Mask Detec
 ## Demo
 
 
-https://github.com/Prikshit7766/Face-Mask-Detection/assets/101416953/28357402-fca9-4776-afaf-17169e66ce30
+
+https://github.com/Prikshit7766/Face-Mask-Detection/assets/101416953/77797d8f-04d8-4db5-9be4-bcef08729acc
+
+
+
 
 
 ## Converting Pascal VOC to YOLO
