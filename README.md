@@ -14,9 +14,7 @@ The dataset used for training the model is available on Kaggle: [Face Mask Detec
 
 
 
-
-https://github.com/Prikshit7766/Face-Mask-Detection/assets/101416953/8b63fce2-660b-4a61-bc8f-815b3089ae65
-
+https://github.com/Prikshit7766/Face-Mask-Detection/assets/101416953/62b2c419-5ca0-4b2c-9ab4-e0c8609af18b
 
 
 
