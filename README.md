@@ -11,7 +11,11 @@ This repository contains the code for training and testing a YOLOv5 model for fa
 The dataset used for training the model is available on Kaggle: [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection). It consists of images in PNG format along with corresponding annotations in XML files (in Pascal VOC format).
 
 ## Demo
-video
+
+
+https://github.com/Prikshit7766/Face-Mask-Detection/assets/101416953/28357402-fca9-4776-afaf-17169e66ce30
+
+
 ## Converting Pascal VOC to YOLO
 
 To use the Pascal VOC dataset format with YOLOv5, the annotations need to be converted to YOLO format. To achieve this, a Python script called `convert_voc_to_yolo.py` is provided in this repository. Run the script to convert the annotations, which will generate YOLO-formatted labels and create `data.yaml` and `classes.txt` files. Move these files outside the dataset folder.
